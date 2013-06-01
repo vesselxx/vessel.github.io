@@ -565,7 +565,7 @@ strong {
 }
 
 .wrapper {
-  width: 650px;
+  width: 850px;
   margin: 0 auto;
   position: relative;
 }
@@ -795,10 +795,10 @@ header p {
 }
 
 section {
-  width: 590px;
+  width: 880px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 190px;
+  margin-top: 120px;
   position: relative;
   background: #fbfbfb;
   -moz-border-radius: 3px;
@@ -821,9 +821,9 @@ small {
 nav {
   width: 230px;
   position: fixed;
-  top: 220px;
+  top: 200px;
   left: 50%;
-  margin-left: -580px;
+  margin-left: -680px;
   text-align: right;
 }
 nav ul {
